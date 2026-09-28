@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed on your machine:
 **1. Clone the repository**
 Open your terminal and clone the project to your local machine:
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/stayhealthy-capstone.git
+git clone https://github.com/gta5andersonrobinson-bot/stayhealthy-capstone.git
 \`\`\`
 
 **2. Navigate to the project directory**
